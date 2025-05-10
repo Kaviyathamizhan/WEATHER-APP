@@ -14,7 +14,7 @@ MENTOR: NEELA SANTOSH
 
 DESCRIPTION : 
 
-The Weather App is a clean, user-friendly, and responsive application that allows users to retrieve real-time weather data for any city across the world. Built using pure HTML, CSS, and vanilla JavaScript, the app interacts with the OpenWeatherMap API, a widely used service that provides weather data based on location.
+The Weather App is a clean, user-friendly, and responsive application that allows users to retrieve real-time weather data for any city across the world. Built using pure HTML, CSS, and JavaScript, the app interacts with the OpenWeatherMap API, a widely used service that provides weather data based on location.
 
 Designed to function simply and effectively, this application is a classic example of how powerful a project can be even without using modern frameworks. It introduces beginner developers to essential concepts such as API integration, DOM manipulation, error handling, and dynamic content rendering — all without relying on React or other libraries.
 
@@ -32,7 +32,7 @@ Search Functionality
 
 Users enter the name of a city in a text input.
 
-Upon pressing the “Get Weather” button, the app queries the OpenWeatherMap API to retrieve weather data.
+Upon pressing the “Check Weather” button, the app queries the OpenWeatherMap API to retrieve weather data.
 
 Live API Integration
 
