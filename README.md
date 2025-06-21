@@ -1,17 +1,5 @@
 # WEATHER APPLICATION
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: KAVIYATHAMIZHAN T K
-
-INTERN ID: CT08WC44
-
-DOMAIN: MERN STACK WEB DEVELOPMENT
-
-DURATION: 8 WEEEKS
-
-MENTOR: NEELA SANTOSH
-
 DESCRIPTION : 
 
 The Weather App is a clean, user-friendly, and responsive application that allows users to retrieve real-time weather data for any city across the world. Built using pure HTML, CSS, and JavaScript, the app interacts with the OpenWeatherMap API, a widely used service that provides weather data based on location.
